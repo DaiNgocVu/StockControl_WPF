@@ -1,0 +1,1 @@
+D:\GIT\StockControl_WPF\StockControl\StockControl\bin\Debug\StockControl.exe.config
